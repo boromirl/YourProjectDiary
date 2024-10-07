@@ -2,6 +2,10 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QXmlStreamWriter>
+#include <QXmlStreamReader>
+#include <QDir>
+#include <QStandardItemModel>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -16,6 +20,10 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+
+    void loadProjects(); // find XML project files directory and add them to listView
+
+
 
 private:
     Ui::MainWindow *ui;
