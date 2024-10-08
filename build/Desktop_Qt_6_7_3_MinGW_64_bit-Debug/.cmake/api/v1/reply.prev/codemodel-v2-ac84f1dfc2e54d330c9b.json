@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-77dfbba9838b48902509.json",
+					"jsonFile" : "directory-.-Debug-8902ae642daf2dc60b24.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "YourProjectDiary::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-YourProjectDiary-Debug-fa9b2055569c0769849c.json",
+					"jsonFile" : "target-YourProjectDiary-Debug-366dd6193c36e06bcf0b.json",
 					"name" : "YourProjectDiary",
 					"projectIndex" : 0
 				},

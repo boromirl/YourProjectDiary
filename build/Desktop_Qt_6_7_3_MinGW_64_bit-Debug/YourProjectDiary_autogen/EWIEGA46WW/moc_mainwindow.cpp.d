@@ -1,6 +1,7 @@
 C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/mainwindow.h \
   C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/moc_predefs.h \
   C:/Qt/6.7.3/mingw_64/include/QtCore/QDir \
+  C:/Qt/6.7.3/mingw_64/include/QtCore/QItemSelection \
   C:/Qt/6.7.3/mingw_64/include/QtCore/QXmlStreamReader \
   C:/Qt/6.7.3/mingw_64/include/QtCore/QXmlStreamWriter \
   C:/Qt/6.7.3/mingw_64/include/QtCore/q20functional.h \
@@ -56,6 +57,7 @@ C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/build/Desktop_Qt_6_7_3_Min
   C:/Qt/6.7.3/mingw_64/include/QtCore/qhashfunctions.h \
   C:/Qt/6.7.3/mingw_64/include/QtCore/qiodevice.h \
   C:/Qt/6.7.3/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.7.3/mingw_64/include/QtCore/qitemselectionmodel.h \
   C:/Qt/6.7.3/mingw_64/include/QtCore/qiterable.h \
   C:/Qt/6.7.3/mingw_64/include/QtCore/qiterator.h \
   C:/Qt/6.7.3/mingw_64/include/QtCore/qlatin1stringview.h \
