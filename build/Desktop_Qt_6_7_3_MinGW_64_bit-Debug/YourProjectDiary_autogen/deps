@@ -1,6 +1,9 @@
 YourProjectDiary_autogen/timestamp: \
+	C:/Qt/6.7.3/mingw_64/include/QtCore/QDate \
 	C:/Qt/6.7.3/mingw_64/include/QtCore/QDir \
+	C:/Qt/6.7.3/mingw_64/include/QtCore/QFile \
 	C:/Qt/6.7.3/mingw_64/include/QtCore/QItemSelection \
+	C:/Qt/6.7.3/mingw_64/include/QtCore/QString \
 	C:/Qt/6.7.3/mingw_64/include/QtCore/QXmlStreamReader \
 	C:/Qt/6.7.3/mingw_64/include/QtCore/QXmlStreamWriter \
 	C:/Qt/6.7.3/mingw_64/include/QtCore/q20functional.h \
@@ -574,5 +577,9 @@ YourProjectDiary_autogen/timestamp: \
 	C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/main.cpp \
 	C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/mainwindow.cpp \
 	C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/mainwindow.h \
+	C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/projectdiary.cpp \
+	C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/projectdiary.h \
+	C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/projectinfo.cpp \
+	C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/projectinfo.h \
 	C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/mainwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

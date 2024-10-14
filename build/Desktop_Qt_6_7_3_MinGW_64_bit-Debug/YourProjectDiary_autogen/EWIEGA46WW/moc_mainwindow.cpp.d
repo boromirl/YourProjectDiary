@@ -1,7 +1,10 @@
 C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/mainwindow.h \
   C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/moc_predefs.h \
+  C:/Qt/6.7.3/mingw_64/include/QtCore/QDate \
   C:/Qt/6.7.3/mingw_64/include/QtCore/QDir \
+  C:/Qt/6.7.3/mingw_64/include/QtCore/QFile \
   C:/Qt/6.7.3/mingw_64/include/QtCore/QItemSelection \
+  C:/Qt/6.7.3/mingw_64/include/QtCore/QString \
   C:/Qt/6.7.3/mingw_64/include/QtCore/QXmlStreamReader \
   C:/Qt/6.7.3/mingw_64/include/QtCore/QXmlStreamWriter \
   C:/Qt/6.7.3/mingw_64/include/QtCore/q20functional.h \
@@ -396,4 +399,7 @@ C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/build/Desktop_Qt_6_7_3_Min
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
-  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
+  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
+  C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/diaryentry.h \
+  C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/projectdiary.h \
+  C:/Users/Alex/Documents/Qt\ projects/YourProjectDiary/projectinfo.h

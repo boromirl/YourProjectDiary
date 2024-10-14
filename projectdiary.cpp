@@ -1,51 +1,35 @@
 #include "projectdiary.h"
 
 // default constructor
-ProjectDiary::ProjectDiary() {
-  m_title = "No title";
-  m_description = "No description";
-  m_status = "No status";
-
-  // FIX (Think about dates and checking them)
-  // maybe add default dates?
-  m_start_date = QDate(2000, 01, 01);
-  m_end_date = QDate(2000, 01, 01);
-}
+ProjectDiary::ProjectDiary() { m_project_info = ProjectInfo(); }
 
 // parameter constructor
-ProjectDiary::ProjectDiary(QString title, QString description, QString status,
-                           QDate start_date, QDate end_date) {
-  m_title = title;
-  m_description = description;
-  m_status = status;
-  m_start_date = start_date;
-  m_end_date = end_date;
-}
+ProjectDiary::ProjectDiary(ProjectInfo info) { m_project_info = info; }
 
 // copy constructor
 ProjectDiary::ProjectDiary(const ProjectDiary &other) {
-  // FIX (maybe add copyData() method?
-  m_title = other.m_title;
-  m_description = other.m_description;
-  m_status = other.m_status;
-  m_start_date = other.m_start_date;
-  m_end_date = other.m_end_date;
+  m_project_info = other.m_project_info;
 }
 
-// accessors
-QString ProjectDiary::title() const { return m_title; }
-QString ProjectDiary::description() const { return m_description; }
-QString ProjectDiary::status() const { return m_status; }
-QDate ProjectDiary::start_date() const { return m_start_date; }
-QDate ProjectDiary::end_date() const { return m_end_date; }
+// void ProjectDiary::loadFromXml(QFile &file) {
+//   QXmlStreamReader xmlReader;
+//   xmlReader.setDevice(&file);
 
-// mutators
-void ProjectDiary::setTitle(const QString title) { m_title = title; }
-void ProjectDiary::setDescription(const QString description) {
-  m_description = description;
-}
-void ProjectDiary::setStatus(const QString status) { m_status = status; }
-void ProjectDiary::setStartDate(const QDate start_date) {
-  m_start_date = start_date;
-}
-void ProjectDiary::setEndDate(const QDate end_date) { m_end_date = end_date; }
+//   // read the XML document
+//   while (!xmlReader.atEnd() && !xmlReader.hasError()) {
+//     xmlReader.readNext();
+
+//     // process elements
+//     if (xmlReader.isStartElement()) {
+//       QString element_name = xmlReader.name().toString();
+
+//       if (element_name == "title") {
+//         m_title = xmlReader.text().toString();
+//       } else if (element_name == "description") {
+//         m_description = xmlReader.text().toString();
+//       } else if (element_name == "status") {
+//         m_status = xmlReader.text().toString();
+//       }
+//     }
+//   }
+// }

@@ -29,7 +29,7 @@
       <property name="rightMargin">
        <number>20</number>
       </property>
-      <item alignment="">
+      <item>
        <widget class="QLabel" name="projectsLabel">
         <property name="font">
          <font>
@@ -151,12 +151,12 @@
          <widget class="QLineEdit" name="projectStartDateLineEdit"/>
         </item>
         <item row="0" column="1">
-         <widget class="QLineEdit" name="projectNameLineEdit"/>
+         <widget class="QLineEdit" name="projectTitleLineEdit"/>
         </item>
         <item row="0" column="0">
-         <widget class="QLabel" name="label_3">
+         <widget class="QLabel" name="titleLabel">
           <property name="text">
-           <string>Name:</string>
+           <string>Title:</string>
           </property>
          </widget>
         </item>

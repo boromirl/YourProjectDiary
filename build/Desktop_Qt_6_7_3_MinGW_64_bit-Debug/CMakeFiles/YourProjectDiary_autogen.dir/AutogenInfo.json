@@ -273,6 +273,12 @@
 			"MU",
 			"EWIEGA46WW/moc_projectdiary.cpp",
 			null
+		],
+		[
+			"C:/Users/Alex/Documents/Qt projects/YourProjectDiary/projectinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_projectinfo.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -363,6 +369,11 @@
 		],
 		[
 			"C:/Users/Alex/Documents/Qt projects/YourProjectDiary/projectdiary.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Alex/Documents/Qt projects/YourProjectDiary/projectinfo.cpp",
 			"MU",
 			null
 		]

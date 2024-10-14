@@ -76,3 +76,5 @@ projects/
 
 clang-format
 clang-format.sh
+
+build/

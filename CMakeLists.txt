@@ -25,6 +25,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         diaryentry.h diaryentry.cpp
         projectdiary.h projectdiary.cpp
+        projectinfo.h projectinfo.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET YourProjectDiary APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

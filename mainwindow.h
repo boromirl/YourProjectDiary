@@ -8,6 +8,8 @@
 #include <QXmlStreamReader>
 #include <QXmlStreamWriter>
 
+#include "projectdiary.h"
+
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
@@ -21,10 +23,14 @@ public:
   MainWindow(QWidget *parent = nullptr);
   ~MainWindow();
 
+  QList<ProjectInfo> projectInfoList;
+
+  void addProject(ProjectDiary project);
+
   void
   loadProjects(); // find XML project files directory and add them to listView
   void displayProjectInfo(
-      QString projectName); // display info about project in lineEdits
+      ProjectInfo info); // display info about project in lineEdits
 
 private slots:
   void onSelectionChanged(const QItemSelection &selected,
@@ -33,4 +39,6 @@ private slots:
 private:
   Ui::MainWindow *ui;
 };
+
+int findProjectIndexByTitle(QList<ProjectInfo> projectList, QString title);
 #endif // MAINWINDOW_H

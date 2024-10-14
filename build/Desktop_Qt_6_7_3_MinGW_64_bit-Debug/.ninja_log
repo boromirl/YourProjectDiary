@@ -1,10 +1,78 @@
 # ninja log v6
-301	4254	7500672744235459	CMakeFiles/YourProjectDiary.dir/main.cpp.obj	1d1725635828952e
-38	289	7500672741605505	YourProjectDiary_autogen/timestamp	7560f7047531a85c
-5450	6347	7500672795728431	YourProjectDiary.exe	f239e29ae77ae33
-318	5450	7500672744405479	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
-38	289	7500672741605505	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
-38	289	7500672741605505	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
-38	289	7500672741605505	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
-290	4438	7500672744125403	CMakeFiles/YourProjectDiary.dir/YourProjectDiary_autogen/mocs_compilation.cpp.obj	b760e3ddde359dbe
-377	3166	7500672744995468	CMakeFiles/YourProjectDiary.dir/diaryentry.cpp.obj	d76a5f0650f250bb
+1105	6533	7500781549993129	CMakeFiles/YourProjectDiary.dir/main.cpp.obj	1d1725635828952e
+52	1094	7500781548513084	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+7856	8454	7500781617510736	YourProjectDiary.exe	dd015d865670908c
+1117	7856	7500781550123159	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+52	1094	7500781548513084	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+52	1094	7500781548513084	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+52	1094	7500781548513084	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+1095	6702	7500781549893129	CMakeFiles/YourProjectDiary.dir/YourProjectDiary_autogen/mocs_compilation.cpp.obj	b760e3ddde359dbe
+1131	5338	7500781550253193	CMakeFiles/YourProjectDiary.dir/diaryentry.cpp.obj	d76a5f0650f250bb
+1151	5712	7500781550453106	CMakeFiles/YourProjectDiary.dir/projectdiary.cpp.obj	46be31a67996606b
+76	1393	7501499837108708	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+76	1393	7501499837108708	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+76	1393	7501499837108708	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+76	1393	7501499837108708	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+1466	7127	7501499839182905	CMakeFiles/YourProjectDiary.dir/projectinfo.cpp.obj	de470fcb78fabacc
+1453	7143	7501499839052910	CMakeFiles/YourProjectDiary.dir/projectdiary.cpp.obj	46be31a67996606b
+1431	7381	7501499838829126	CMakeFiles/YourProjectDiary.dir/main.cpp.obj	1d1725635828952e
+1394	7461	7501499838458789	CMakeFiles/YourProjectDiary.dir/YourProjectDiary_autogen/mocs_compilation.cpp.obj	b760e3ddde359dbe
+1444	8537	7501499838952924	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+8537	9876	7501499909896526	YourProjectDiary.exe	93687c41c569c50d
+42	1083	7501508369464048	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+42	1083	7501508369464048	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+42	1083	7501508369464048	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+42	1083	7501508369464048	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+1096	5582	7501508370987630	CMakeFiles/YourProjectDiary.dir/main.cpp.obj	1d1725635828952e
+1084	5715	7501508370869061	CMakeFiles/YourProjectDiary.dir/YourProjectDiary_autogen/mocs_compilation.cpp.obj	b760e3ddde359dbe
+40	1088	7501509580762769	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+40	1088	7501509580762769	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+40	1088	7501509580762769	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+40	1088	7501509580762769	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+1122	6776	7501509582413733	CMakeFiles/YourProjectDiary.dir/projectdiary.cpp.obj	46be31a67996606b
+1101	7711	7501509582202236	CMakeFiles/YourProjectDiary.dir/main.cpp.obj	1d1725635828952e
+1089	7869	7501509582077446	CMakeFiles/YourProjectDiary.dir/YourProjectDiary_autogen/mocs_compilation.cpp.obj	b760e3ddde359dbe
+1111	9608	7501509582301394	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+43	330	7501509999135264	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+43	330	7501509999135264	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+43	330	7501509999135264	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+43	330	7501509999135264	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+344	3751	7501510002151479	CMakeFiles/YourProjectDiary.dir/projectinfo.cpp.obj	de470fcb78fabacc
+331	6483	7501510002021422	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+6483	7121	7501510063535946	YourProjectDiary.exe	93687c41c569c50d
+26	341	7501556625872020	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+26	341	7501556625872020	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+26	341	7501556625872020	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+26	341	7501556625872020	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+342	6129	7501556629045177	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+6129	6781	7501556686906836	YourProjectDiary.exe	93687c41c569c50d
+39	339	7501557440056110	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+39	339	7501557440056110	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+39	339	7501557440056110	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+39	339	7501557440056110	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+340	6138	7501557443056133	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+6138	6774	7501557501041459	YourProjectDiary.exe	93687c41c569c50d
+21	321	7501562671928331	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+21	321	7501562671928331	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+21	321	7501562671928331	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+21	321	7501562671928331	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+335	3817	7501562675070931	CMakeFiles/YourProjectDiary.dir/projectinfo.cpp.obj	de470fcb78fabacc
+322	6173	7501562674940936	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+6173	6833	7501562733449761	YourProjectDiary.exe	93687c41c569c50d
+42	1123	7501576692194259	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+42	1123	7501576692194259	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+42	1123	7501576692194259	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+42	1123	7501576692194259	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+1168	4994	7501576694254256	CMakeFiles/YourProjectDiary.dir/projectinfo.cpp.obj	de470fcb78fabacc
+1136	5866	7501576693944276	CMakeFiles/YourProjectDiary.dir/main.cpp.obj	1d1725635828952e
+1125	6100	7501576693834290	CMakeFiles/YourProjectDiary.dir/YourProjectDiary_autogen/mocs_compilation.cpp.obj	b760e3ddde359dbe
+1149	7444	7501576694064270	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+7444	8085	7501576757020209	YourProjectDiary.exe	93687c41c569c50d
+63	1055	7505857864899439	YourProjectDiary_autogen/timestamp	7560f7047531a85c
+63	1055	7505857864899439	YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+63	1055	7505857864899439	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/timestamp	7560f7047531a85c
+63	1055	7505857864899439	C:/Users/Alex/Documents/Qt projects/YourProjectDiary/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/YourProjectDiary_autogen/mocs_compilation.cpp	7560f7047531a85c
+1068	5228	7505857866179489	CMakeFiles/YourProjectDiary.dir/main.cpp.obj	1d1725635828952e
+1057	5261	7505857866069464	CMakeFiles/YourProjectDiary.dir/YourProjectDiary_autogen/mocs_compilation.cpp.obj	b760e3ddde359dbe
+1079	5890	7505857866289459	CMakeFiles/YourProjectDiary.dir/mainwindow.cpp.obj	ce857a37bbcd4cfd
+5890	7301	7505857914400943	YourProjectDiary.exe	93687c41c569c50d
