@@ -73,6 +73,12 @@ void ProjectInfo::loadFromXml(QString filePath) {
         m_description = xmlReader.readElementText();
       } else if (elementName == "status") {
         m_status = xmlReader.readElementText();
+      } else if (elementName == "start_date"){
+          QString string = xmlReader.readElementText();
+          m_start_date = QDate::fromString(string, "yyyy-MM-dd");
+      } else if (elementName == "end_date"){
+          QString string = xmlReader.readElementText();
+          m_end_date = QDate::fromString(string, "yyyy-MM-dd");
       }
     }
   }

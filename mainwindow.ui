@@ -145,7 +145,7 @@
          </widget>
         </item>
         <item row="4" column="1">
-         <widget class="QLineEdit" name="ProjectEndDateLineEdit"/>
+         <widget class="QLineEdit" name="projectEndDateLineEdit"/>
         </item>
         <item row="3" column="1">
          <widget class="QLineEdit" name="projectStartDateLineEdit"/>

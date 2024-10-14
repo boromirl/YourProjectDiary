@@ -27,13 +27,6 @@ void MainWindow::loadProjects() {
                     QDir::Files); // список файлов формата xml, Qdir::files
                                   // указывает, что нужны только файлы
 
-  // // список имен файлов
-  // QStringList xmlFileInfo;
-  // foreach (const QString &filename, xmlFiles) {
-  //   QFileInfo fileInfo(dir, filename);
-  //   xmlFileInfo.append(fileInfo.baseName());
-  // }
-
   foreach (const QString &filename, xmlFiles) {
     ProjectInfo info = ProjectInfo();
     info.loadFromXml(projectsDirPath + "/" + filename);
@@ -64,6 +57,8 @@ void MainWindow::displayProjectInfo(ProjectInfo info) {
   ui->projectTitleLineEdit->setText(info.title());
   ui->projectDescriptionLineEdit->setText(info.description());
   ui->projectStatusLineEdit->setText(info.status());
+  ui->projectStartDateLineEdit->setText(info.startDate().toString());
+  ui->projectEndDateLineEdit->setText(info.endDate().toString());
 }
 
 // FIX (what if the same title?)
